@@ -1,0 +1,2 @@
+include ':news', ':calculator'
+rootProject.name='My Apps'
